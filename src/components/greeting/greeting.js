@@ -11,8 +11,6 @@ import {
 function greeting() {
   const dispatch = useDispatch();
   const greeting = useSelector(selectAllGreeting);
-  console.log(greeting);
-  console.log(greeting.message);
 
   useEffect(() => {
     if (getGreetingStatus === 'idle' || 'succeeded') {
