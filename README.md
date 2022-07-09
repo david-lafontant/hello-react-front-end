@@ -5,6 +5,8 @@
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 ![Redux-Toolkit](https://img.shields.io/badge/-Redux--Toolkit-blue)
 
+![Redux-Toolkit](https://img.shields.io/badge/-Redux--Toolkit-blue)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Description
@@ -16,7 +18,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 - [Create React App](https://create-react-app.dev/) 
 - [React Router](https://reactrouter.com/) 
 - [Redux](https://redux-toolkit.js.org/)
-![Redux-Toolkit](https://img.shields.io/badge/-Redux--Toolkit-blue)
+
 
 ## Getting Started
 
